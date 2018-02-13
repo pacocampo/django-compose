@@ -25,6 +25,7 @@ SECRET_KEY = 'h4qd-ip9ir)0(^b#sq4ozlztj_3xzs((q+_-^ojz(kyehjiy$' #os.environ.get
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+#a little comment
 ALLOWED_HOSTS = ['*']
 
 
